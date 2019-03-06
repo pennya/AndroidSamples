@@ -1,1 +1,1 @@
-include ':app', ':socketserver', ':sensorcontrol', ':base'
+include ':app', ':socketserver', ':sensorcontrol', ':base', ':chartandcalendar'

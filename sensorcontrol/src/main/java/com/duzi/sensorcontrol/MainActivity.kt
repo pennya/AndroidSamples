@@ -9,6 +9,8 @@ import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.widget.Toast
 import com.duzi.base.plusAssign
+import com.duzi.sensorcontrol.R.id.tvSensorType
+import com.duzi.sensorcontrol.R.id.tvSensorValue
 import io.reactivex.Observable
 import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
